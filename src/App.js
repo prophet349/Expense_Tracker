@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
-//adding something for git
+
 const dummyExpenses = [
   {
     id: 'e1',
